@@ -1,5 +1,5 @@
 # pool_cleaner
-A 3D printable pool cleaner utilising the Ventri effect.
+A 3D printable pool cleaner utilising the Venturi effect.
 
 This design is based off one that a friend of mine bought. 
 I have printed it on a Prusa i3 mk3 in PETG at 0.15 mm layer height and it worked really well.
